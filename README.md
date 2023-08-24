@@ -3,6 +3,8 @@
 ## Sumário
 - [Visão Geral](#visão-geral)
   - [Funcionamento do aplicativo](#funcionamento-do-aplicativo)
+- [Processo de Criação](#processo-de-criação)
+- [Autora](#autora)
 
 ## Visão Geral
 
@@ -85,6 +87,24 @@ Nesta seção estão disponíveis algumas capturas de tela e uma descrição de 
 ![Ver Todas as Vendas](/images/ver-todas-vendas.png)
 
 </div>
+
+## Processo de Criação
+
+O aplicativo foi inteiramente construído em python com [Kivy](https://kivy.org/doc/stable/).
+
+Kivy é um framework opensource do python para a construção de aplicativos. É uma comunidade liderada por desenvolvedores de softwares profissionais
+
+<div align="center">
+
+<img src="/images/Kivy_logo.png" alt="Kivy" width="200"/>
+
+</div>
+
+## Autora
+
+- LikedIn - [Alessandra Oliveira](https://www.linkedin.com/in/alessandra-santos-oliveira/)
+- Twitter - [@itsale_o](https://twitter.com/itsale_o)
+
 
 
 
