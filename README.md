@@ -16,9 +16,7 @@ Nesta seção estão disponíveis algumas capturas de tela e uma descrição de 
 
 **Tela de Login/Criar Conta -** Tela inicial ao abrir o aplicativo pela primeira vez. Permite que o funcionário da empresa crie sua conta no aplicativo ou realize o login, caso já tenha uma conta e tenha realizado o logout em algum momento
 
-<div align="center>
 
-  ![imgs/login criar conta.png]()
 
-</div>
+
 
