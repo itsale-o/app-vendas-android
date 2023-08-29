@@ -8,8 +8,10 @@ from myfirebase import MyFirebase
 from bannervendedor import BannerVendedor
 from datetime import date
 import requests
+import certifi
 import os
 
+os.environ['SSL_CERT_FILE'] = certifi.where()
 os.environ['KIVY_GL_BACKEND'] = 'angle_sdl2'
 GUI = Builder.load_file("main.kv")
 
