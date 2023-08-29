@@ -132,7 +132,6 @@ class MainApp(App):
             pass
 
     def mudar_tela(self, id_tela):
-        print(id_tela)
         gerenciador_telas = self.root.ids["screen_manager"]
         gerenciador_telas.current = id_tela
 
